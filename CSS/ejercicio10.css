@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.caja.primero{
+    order: 5;
+}
+
+.caja.tercero{
+    order: -1;
+}
