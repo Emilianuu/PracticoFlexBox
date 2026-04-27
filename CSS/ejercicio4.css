@@ -1,5 +1,8 @@
 .contenedor{
     display: flex;
+    height: 400px;
+    width: 400px;
     justify-content: center;
+    align-items: center;
     background-color: aquamarine;
 }
