@@ -1,0 +1,17 @@
+.contenedor{
+    display: flex;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+.caja.arriba{
+    align-self: flex-start;
+}
+
+.caja.medio{
+    align-self: center;
+}
+
+.caja.abajo{
+    align-self: flex-end;
+}
