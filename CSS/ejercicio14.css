@@ -1,0 +1,10 @@
+.tarjeta{
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+.tarjeta button{
+    margin-top: auto;
+}
