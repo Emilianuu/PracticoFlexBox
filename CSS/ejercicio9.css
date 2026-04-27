@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    height: 600px;
+    width: 600px;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+
+.caja{
+    height: 150px;
+    width: 150px;
+}
