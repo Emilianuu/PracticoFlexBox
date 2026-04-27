@@ -1,0 +1,17 @@
+.contenedor{
+    display: flex;
+    width: 600px;
+    background-color: aquamarine;
+}
+
+.caja.a{
+    flex-grow: 1;
+}
+
+.caja.b{
+    flex-grow: 2;
+}
+
+.caja.c{
+    flex-grow: 1;
+}
