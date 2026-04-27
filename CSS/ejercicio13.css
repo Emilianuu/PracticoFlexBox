@@ -1,0 +1,9 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.enlaces{
+    display: flex;
+    gap: 40px;
+}
