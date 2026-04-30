@@ -1,0 +1,21 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+.campo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.campo label{
+    flex: 0 0 120px;
+    background-color: darkcyan;
+}
+
+.campo input{
+    flex: 1;
+    background-color: blue;
+}
