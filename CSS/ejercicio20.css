@@ -1,0 +1,17 @@
+.chat{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+.msg.ajeno{
+    align-self: flex-start;
+    max-width: 70%;
+    background-color: darkcyan;
+}
+
+.msg.propio{
+    align-self: flex-end;
+    max-width: 70%;
+    background-color: blue;
+}
