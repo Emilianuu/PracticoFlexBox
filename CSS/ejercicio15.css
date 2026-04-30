@@ -1,0 +1,21 @@
+.layout{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.izquierda{
+    height: 200px;
+    flex: 0 0 200px;
+}
+
+.centro{
+    height: 200px;
+    flex: 1;
+}
+
+.derecha{
+    height: 200px;
+    flex: 0 0 150px;
+}
