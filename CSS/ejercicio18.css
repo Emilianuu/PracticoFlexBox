@@ -1,0 +1,17 @@
+.lista-tarjetas{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    background-color: aquamarine;
+    gap: 20px;
+}
+
+.tarjeta{
+    flex: 1;
+    flex-direction: column;
+    background-color: darkcyan;
+}
+
+.tarjeta button{
+    margin-top: auto;
+}
