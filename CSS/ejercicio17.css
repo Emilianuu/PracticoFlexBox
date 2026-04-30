@@ -1,0 +1,26 @@
+.pagina{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+.cuerpo{
+    display: flex;
+    flex: 1;
+}
+
+.izq{
+    flex: 0 0 200px;
+    background-color: darkcyan;
+}
+
+.der{
+    flex: 0 0 200px;
+    background-color: darkcyan;
+}
+
+.cuerpo main{
+    flex: 1;
+    background-color: blue;
+}

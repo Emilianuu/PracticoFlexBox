@@ -8,14 +8,17 @@
 .izquierda{
     height: 200px;
     flex: 0 0 200px;
+    background-color: darkcyan;
 }
 
 .centro{
     height: 200px;
     flex: 1;
+    background-color: blue;
 }
 
 .derecha{
     height: 200px;
     flex: 0 0 150px;
+    background-color: darkcyan;
 }
